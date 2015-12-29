@@ -1,0 +1,641 @@
+---
+layout: post
+img: boston.jpg
+category: Boston
+title: 波士頓自由行
+description: |
+  <p class="lead">
+     第一次寫網誌，決定以去年的波士頓自由行補記( 10/30~11/5 )來當第一個題目，主要也是這次旅行
+     對我的影響很大，不只讓我想寫個自己的東西，也讓我體會到很多國外教育與台灣教
+     育的一些差別......
+  </p>
+
+---
+<div class=" row ">
+  <div class=" col-xs-12 ">
+    <h2 style=" text-align:center ">
+    波士頓自由行
+    </h2>
+  </div>
+</div>
+<div class=" row ">
+  <div class=" col-xs-12 ">
+    <p>
+     第一次寫網誌，決定以去年的波士頓自由行補記( 10/30~11/5 )來當第一個題目，主要也是這次旅行
+     對我的影響很大，不只讓我想寫個自己的東西，也讓我體會到很多國外教育與台灣教
+     育的一些差別，所以就決定寫
+     下來與大家分享囉！<br>
+     會有這次的機會，主要是因為參加了biomod的競賽,有幸可以代表學校前來哈佛比賽。
+    </p>
+    <h3 style=" color:#FF8800 ">
+    第1天
+    </h3>
+    <p>
+    沒去過美國，所以這次去就超興奮的，借了一台相機到處亂拍XD
+    </p>
+  </div>
+</div>
+<div class="row" >
+  <div class=" col-sm-4 ">
+    <p style="text-align:center">
+     在飛機上問我們問題的可愛阿姨 
+    </p>
+    <img src="/img/boston/day01_1.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-4 ">
+    <p style="text-align:center">
+     標準觀光客，機場也要拍哈哈
+    </p>
+    <img src="/img/boston/day01_2.jpg" class="img-responsive" alt="">
+  </div>
+  <div class=" col-sm-4 ">
+    <p style="text-align:center" >
+      有好多票種喔
+    </p>
+    <img src="/img/boston/day01_3.jpg" class="img-responsive" alt="">
+  </div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>從台灣搭到美國，花差不多12個小時，但到機場時精神滿好的，一方面可能是睡很好XD
+    當然還有很興奮啦>< <br>
+    我是跟3個醫學系的同學一起去的，有江亭慧、李科翰、江卓翰。<br>
+    </p>
+  </div>
+</div>
+<div class="row" >
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style="text-align:center">
+      在地鐵站的合照
+    </p>
+    <img src="/img/boston/day01_4.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      波士頓是一個古老的城市，但也充滿著美國歷史文化與逃離現代生活的悠閒感，當地
+      的人好像都以自己是波士頓居民自豪，每個人都超nice的，很多人看到我們這種觀光
+      客都會主動問我們需不需要幫助，很喜歡這裡的居民~
+    </p>
+  </div>
+</div>
+<div class=" row ">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      悠久歷史歲月的波士頓地鐵
+    </p>
+    <img src="/img/boston/day01_5.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class=" row ">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      到了當地已經是晚上了，所以第1站就是前往旅館 Le Meridian Cambridge-MIT ，
+      Le Meridian Cambridge-MIT位於MIT的大學城裡，在找旅館的過程中，意外的發現媒
+      體實驗室，超開心的，只是那個時候我的相機有點問題，所以就沒放照片囉~到旅館
+      時也晚了，當天就早早睡養體力，備戰後幾天的行程：)
+    </p>
+    <h2 style=" color:#FF8800 ">
+      第二天
+    </h2>
+    <p>
+      因為時差的關係我們早早就起來了，一起來就是開始尋找波士頓人早餐都吃甚麼，
+      結果找到了一家超有意思的小店 Veggie Galaxy ，這家店最特別之處在於菜名都是以附近的街道命名。
+    </p>
+  </div>
+</div>
+<div class=" row ">
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      Veggie Galaxy 的招牌
+    </p>
+    <img src="/img/boston/day02_1.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      帥氣廚師的背影
+    </p>
+    <img src="/img/boston/day02_2.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      我點的Green Street
+    </p>
+    <img src="/img/boston/day02_3.jpg" class="img-responsive" alt="" >
+  </div>
+</div>
+<div class=" row ">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      吃完後，我們先去彩排比賽的報告，所以這段時間也沒玩甚麼，倒是我們有去他們的超商逛逛
+      ，真的超大的。美國好像很流行電子商務這種東西，連超商裡都一堆電子卡。
+    </p>
+  </div>
+</div>
+<div class=" row ">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      滿櫃的卡片
+    </p>
+    <img src="/img/boston/day02_4.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 ">
+  </div>
+</div>
+<div class=" row ">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+    下午時，靠著地培 鄭靖品 帶著我們優遊MIT，這段期間也跟他聊了很多，發現他成長好多喔~
+    ，跟高中的屁孩不太一樣了XD 這趟參訪，讓我知道了當地學生為甚麼會如此有競爭力，
+    我以我自己的淺見，大概整理一下：
+    </p>
+    <h4 style=" color:green "> 1. 他們的學生很有目標 </h4>
+    <p>
+      當地的教育環境被考試束縛的比較少，推甄重要很多，所以他們很早就開始思考人生的目標
+      ，一進大學每個人早就已經胸懷大志，開始去尋找很多管道完成自己的夢想，像是：加實驗室、
+      創業等等。
+    </p>
+    <h4 style=" color:green ">2. 他們注重實際成就勝於成績 </h4>
+    <p>
+      相對於我們可能會覺得卷哥卷姐很厲害，他還更注重有完成過甚麼事。舉個例好了，
+      鄭靖品高中有玩生物奧林匹亞，他說他當時在國際賽時認識一位美國的選手，很巧的是
+      ，他們在MIT又再度碰面了，他心想他們生物實力應該差不多，所以就跑去跟他聊聊天(較勁？XD)
+      但一聊天才發現，他已經創業了！！當時鄭靖品說他當下覺得他被海放了，這句話我現在印象還很深刻
+      因為我發現我被他們打到18層地獄都起不來了...
+      <br>
+      後來又問更多相關的東西後，才知道，他們每個人都想讓自己的大學與眾不同，所以會嘗試很多除了讀書以外的東西
+      ，當然在這過程中，他們的成績也會跟著提升。
+    </p>
+    <h4 style=" color:green ">3. 他們會對未來很有規劃 </h4>
+    <p>
+      他們當下再聊天的東西，不會是  今天暑假你想幹嘛，而是   你明年暑假或後年暑假打算做甚麼，
+      可見他們對於自己想做的事很清楚，會去追求，也很有遠見。
+    </p>
+    <br>
+    <p>
+      講了這麼多，還是來發一些MIT的照片好了XD 以免有人不相信我有去哈哈 
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      MIT的某棟漂亮系館
+    </p>
+    <img src="/img/boston/day02_5.jpg" class="img-responsive" alt="">
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      合照( 聽說MIT的宣傳照都是在這個草原拍的 )
+    </p>
+    <img src="/img/boston/day02_6.jpg" class="img-responsive" alt="">
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      左圖的屋頂是個圖書館喔( 在這邊拍照不太好... )
+    </p>
+    <img src="/img/boston/day02_7.jpg" class="img-responsive" alt="">
+  </div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      很巧，當天達賴喇嘛去演講，場外剛好有支持與非支持的兩組人馬在抗議
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-2 "></div>
+  <div class=" col-sm-4 ">
+    <p>
+      反對方
+    </p>
+    <img src="/img/boston/day02_8.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-4 ">
+    <p>
+      支持方
+    </p>
+    <img src="/img/boston/day02_9.jpg" class="img-responsive" alt="">
+  </div>
+  <div class=" col-sm-2 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      當天剛好是萬聖節，有人吵著要去夜店哈哈，但隔天要比賽，我們怎麼可以輕易喝個爛醉呢XD
+      剛好MIT有辦萬聖party( 當地人很喜歡玩party ),我們就僑裝當地學生混進MIT的party啦！
+      <br>
+      原本以為會是很聲色的場所，沒想到竟然是溜冰party，超有創意的。 
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-2 "></div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      party現場
+    </p>
+    <img src="/img/boston/day02_10.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-4 ">
+    <p style="text-align:center">
+      MIT的吉祥物河貍( 製水壩象徵工程 )
+    </p>
+    <img src="/img/boston/day02_11.jpg" class="img-responsive" alt="" >
+  </div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <h2 style=" color:#FF8800 ">
+      第四天
+    </h2>
+    <p>
+      比賽第1天開始了，比賽地點是在哈佛，但還好我們是第二天報告，所以這天還滿悠閒的，有關比賽的心得
+      我留到比完賽在一起寫好了。
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      到處亂搭訕的我們XD
+    </p>
+    <img src="/img/boston/day03_1.jpg" class="img-responsive" alt="" >
+  </div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      下午耐不住無聊的我們，偷偷跑到哈佛逛。當然一定要去Harvard coop啦，這裡賣很多
+      哈佛商標的東西，而且都超貴的嘿嘿。 
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      名聞遐邇的Harvard coop
+    </p>
+    <img src="/img/boston/day03_2.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      哈佛創辦人的左腳XD( 據說想all pass的哈佛學生都會來摸 )
+    </p>
+    <img src="/img/boston/day03_3.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      哈佛校園很漂亮，是個古色古香的學院，對比MIT很理工整齊的系館，別有一番風味。
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      超適合拍偶像劇的校園
+    </p>
+    <img src="/img/boston/day03_4.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      由於隔天要比賽，當天晚上也沒玩甚麼，只能待在飯店不停的彩排，到是有一個很特別的經驗發生再這天，
+      當天剛好是當地時區夏令時間調節，一開始放飯店告知時，只個嚇傻，想說那是啥
+      ，google後才了解夏令時間是為了調整白天的時間，所以到了冬天要再調回來。<br>
+      <a href="http://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%B6%E5%88%B6">夏令時間冷知識</a>
+    </p>
+    
+  </div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <h2 style=" color:#FF8800 ">
+      第四天
+    </h2>
+    <p>
+      這天輪到我們報告了，在這邊要特別感謝江亭慧、李科翰、江卓翰你們，沒有你們，
+      我們無法這麼成功的站在著個舞台。
+      <br>
+      我們採取了台灣學生辦營對的精神，編了一齣劇去代出我的研究的內容，結果效果超好的，
+      馬上引起大家哄堂大笑，最後還拿了the best presentation award超開心的。特別感寫
+      Hulda來看我們喔。
+      <br>
+      這邊我也整理一下整個比賽下來的心得：
+    </p>
+    <h4 style=" color:green ">1. 讓我學會寫網頁  </h4>
+    <p>
+      在參加比賽前，我也不太會寫網頁，但由於生物專業不足，所以我只好強迫自己學習寫網頁、做影片等等
+      ，半年過去了，我從一開始聽到寫網頁會腿軟，到現在自己想去寫更多不一樣的東西，
+      我覺得這中間我進步很多，所以我想跟想來參加biomod的人講，不用怕自己能力不足，
+      來了再學吧！
+    </p>
+    <h4 style=" color:green ">2. 歐美學生很有信心  </h4>
+    <p>
+      這個比賽有世界各地的大學，也讓我隱隱約約感覺的東西方文化的差異，最明顯的就是語文能力
+      亞洲學生比較容易因為聽不懂題問被釘在台上。另外，歐美學生真的很有自信，每個站在台上
+      都是一附要來拿第1的樣子，即使他們的內容有瑕疵，但他們也不會因此怯場。
+    </p>    
+    <h4 style=" color:green ">3. 歐美學生很注重科學研究  </h4>
+    <p>
+      除了我們是大二外，大部分的學生都是大三大四，但他們卻展現出完全不同的專業水準，
+      不只他們的研究很厲害外，他們快速聽懂別人題目的能力也很強，問出許多很專業的問題
+      ，這也讓我反思，當我大四時，我能展現出相同的能力嗎？
+    </p>    
+    <h4 style=" color:green ">4. 歐美學生很樂於分享  </h4>
+    <p>
+      歐美的學生很大方，很熱情會給你鼓勵，我們在報告時，台下笑最大聲的也是他們，
+      走下台時，他們也會跟你擊掌。我們有去和冠軍隊伍交流，他們超樂意跟我們講解的，
+      他們會跟我們分享，他們研究的過程等等。這點我還在努力學習，學習如何跟別人分享。
+    </p>    
+  </div>
+</div>
+<div class="row" >
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      下台後瘋狂耍白痴的我們
+    </p>
+    <img src="/img/boston/day04_1.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      霸氣合照
+    </p>
+    <img src="/img/boston/day04_2.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      感謝Hulda
+    </p>
+    <img src="/img/boston/day04_3.jpg" class="img-responsive" alt="" >
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style="text-align:center">
+      香港浸慧大學與我們
+    </p>
+    <img src="/img/boston/day04_4.jpg" class="img-responsive" alt="" >
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style="text-align:center">
+      來自澳洲的冠軍( 他們人超nice的 )
+    </p>
+    <img src="/img/boston/day04_5.jpg" class="img-responsive" alt="" >
+  </div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      比完賽之後，終於可以放心的去波士頓各地走走了。走在波士頓路上，你會真的發現
+      波士頓真的好悠閒喔，不會有人在趕時間的奔跑，而且當地的店感覺都很有自己的特色，
+      裝潢都別出心裁。值得一題的是，那邊的美式足球真的很流行，走到那電視都是在撥美式足球
+      ，害我都看不到nbaXDD
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      菜單在元素表上喔，很有創意吧
+    </p>
+    <img src="/img/boston/day04_6.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      波士頓是個有鎮，人口不多，地鐵的車距15分鐘左右，頗長，但他們還是有很多辦公大樓
+      ，到了晚上，就看到很多大樓，但都沒甚麼人，有點可怕，很像是殭屍片的場景><
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <p style=" text-align:center ">
+      晚上的波士頓市中心
+    </p>
+    <img src="/img/boston/day04_7.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      獨立宣言就是在這個台上被宣示的
+    </p>
+    <img src="/img/boston/day04_8.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <h2 style=" color:#FF8800 ">
+      第五天
+    </h2>
+    <p>
+      最後一天了，沒有比賽壓力，終於可以好好的享受波士頓生活。波士頓真的滿小的，
+      我花一整天的時間幾乎就把波士頓走過一遍了。
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      清晨充滿陽光的波士頓
+    </p>
+    <img src="/img/boston/day05_1.jpg" class="img-responsive" alt="">
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+     Queincy market 觀光客必去的市場
+    </p>
+    <img src="/img/boston/day05_2.jpg" class="img-responsive" alt="">
+  </div>
+  <div class=" col-sm-4 ">
+    <p style=" text-align:center ">
+      波士頓的路上常常會冒煙，據說是熱水管
+    </p>
+    <img src="/img/boston/day05_3.jpg" class="img-responsive" alt="">
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      野生的市場
+    </p>
+    <img src="/img/boston/day05_4.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      來到波士頓，就一定要吃龍蝦阿
+    </p>
+    <img src="/img/boston/day05_5.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      我點的套餐
+    </p>
+    <img src="/img/boston/day05_6.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <p>
+      下午時，我們去走自由之路，據說這條路上，充滿美國的歷史景點，但我們美國歷史
+      也不是很熟，就邊看邊學囉~
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      中央大湖
+    </p>
+    <img src="/img/boston/day05_7.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      早上的獨立宣言平台
+    </p>
+    <img src="/img/boston/day05_8.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row" >
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      晚上的時候，我們去吃號稱世界上最好吃的冰淇淋，但我忘記店名了QQ( 之後補上 )
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      看起來很可口吧
+    </p>
+    <img src="/img/boston/day05_9.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row" >
+  <div class=" col-xs-12 ">
+    <br>
+    <p>
+      忘記介紹我們後來住的青年旅館了，我們後兩天是住hi boston青年旅館，一間cp值
+      超高的旅館喔，一晚大概台幣1200吧~有附早餐，還有廚房可以給你玩喔。
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      江亭慧要大展廚藝了
+    </p>
+    <img src="/img/boston/day05_10.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      我們的室友，他來美國學英文的：)
+    </p>
+    <img src="/img/boston/day05_11.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-sm-3 "></div>
+  <div class=" col-sm-6 ">
+    <br>
+    <p style=" text-align:center ">
+      旅程結束了，以機場合照當ending吧~
+    </p>
+    <img src="/img/boston/day05_12.jpg" class="img-responsive" alt="" >
+  </div>
+  <div class=" col-sm-3 "></div>
+</div>
+<div class="row">
+  <div class=" col-xs-12 ">
+    <h3 style=" color:#FF8800 ">
+      總結
+    </h3>
+    <p>
+      第一次寫blog有點新奇，但也知道文筆剛練練了哈哈。會寫blog的主要動機，有兩個
+      ，第1是為了增加寫程式的機會，第2就是為了訓練上面我提到的分享的能力，希望我
+      以後可以透過我的blog多多和大家分享好玩的事。會想補寫波士頓遊記，也是為了想
+      把我在那邊體驗到的東西分享給大家，另外還有我答應過別人要寫心得給他們看的XD
+      希望大家會喜歡~~
+    </p>
+  </div>
+</div>
