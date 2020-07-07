@@ -1,31 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.36be8f6c.chunk.css",
-    "main.js": "/static/js/main.58a21c26.chunk.js",
-    "main.js.map": "/static/js/main.58a21c26.chunk.js.map",
+    "main.js": "/static/js/main.11394721.chunk.js",
+    "main.js.map": "/static/js/main.11394721.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d12d0e88.js",
     "runtime-main.js.map": "/static/js/runtime-main.d12d0e88.js.map",
-    "static/js/2.91aa9c7b.chunk.js": "/static/js/2.91aa9c7b.chunk.js",
-    "static/js/2.91aa9c7b.chunk.js.map": "/static/js/2.91aa9c7b.chunk.js.map",
+    "static/js/2.2346bdac.chunk.js": "/static/js/2.2346bdac.chunk.js",
+    "static/js/2.2346bdac.chunk.js.map": "/static/js/2.2346bdac.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dea7548e1672ca49f9e1f934ee045a65.js": "/precache-manifest.dea7548e1672ca49f9e1f934ee045a65.js",
+    "precache-manifest.9818b34abb3739fa74c7471494bfd3fd.js": "/precache-manifest.9818b34abb3739fa74c7471494bfd3fd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.36be8f6c.chunk.css.map": "/static/css/main.36be8f6c.chunk.css.map",
-    "static/js/2.91aa9c7b.chunk.js.LICENSE.txt": "/static/js/2.91aa9c7b.chunk.js.LICENSE.txt",
+    "static/js/2.2346bdac.chunk.js.LICENSE.txt": "/static/js/2.2346bdac.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/static/media/avatar.83e15de2.jpg",
-    "static/media/bomberman.jpg": "/static/media/bomberman.369433a2.jpg",
-    "static/media/intro.jpeg": "/static/media/intro.7d7193c4.jpeg",
     "static/media/medium.jpg": "/static/media/medium.191cb17c.jpg",
     "static/media/milkjobs.jpeg": "/static/media/milkjobs.a3fb798d.jpeg",
-    "static/media/musicBot.png": "/static/media/musicBot.94b340e9.png",
-    "static/media/webAnimationClass.jpeg": "/static/media/webAnimationClass.44a8006d.jpeg",
-    "static/media/wordBlurry.gif": "/static/media/wordBlurry.64e54cef.gif",
-    "static/media/wordSliding.gif": "/static/media/wordSliding.1cd5b3d2.gif"
+    "static/media/webAnimationClass.jpeg": "/static/media/webAnimationClass.44a8006d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d12d0e88.js",
-    "static/js/2.91aa9c7b.chunk.js",
+    "static/js/2.2346bdac.chunk.js",
     "static/css/main.36be8f6c.chunk.css",
-    "static/js/main.58a21c26.chunk.js"
+    "static/js/main.11394721.chunk.js"
   ]
 }
